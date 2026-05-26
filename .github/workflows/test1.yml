@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Test
-      run: echo "Valor: $MY_VAR"
+      run: echo "Valor $MY_VAR"
 
     - name: Hola Mundo
       run: echo "Hola mundo"
